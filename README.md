@@ -1,6 +1,9 @@
+This demo implementation of the MCP was developed using the official MCP documentation and the Cursor
+
 # MCP Notepad Server
 
 A simple Model Context Protocol (MCP) server that provides notepad functionality for LLM applications.
+This project created with the help of the official MCP documentation and the Cursor.
 
 ## Features
 
