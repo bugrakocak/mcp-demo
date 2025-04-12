@@ -1,0 +1,18 @@
+{
+  "notes": [
+    {
+      "id": "1740737260971",
+      "title": "Groceries",
+      "content": "General grocery shopping reminder.",
+      "createdAt": "2025-02-28T10:07:40.971Z",
+      "updatedAt": "2025-02-28T10:07:40.975Z"
+    },
+    {
+      "id": "1740739344615",
+      "title": "Doctor Appointment Next Week",
+      "content": "Doctor appointment scheduled for next week.\n\nDate: Not specified\nTime: Not specified\nDoctor: Not specified\nLocation: Not specified\n",
+      "createdAt": "2025-02-28T10:42:24.615Z",
+      "updatedAt": "2025-02-28T10:42:24.616Z"
+    }
+  ]
+}
